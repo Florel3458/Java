@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "HelloWorld",
-        "Ch1"
+        "Ch1",
+        "Ch2/YouDoIt"
     ]
 }
