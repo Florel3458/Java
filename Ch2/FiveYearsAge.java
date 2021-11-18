@@ -8,9 +8,9 @@ public class FiveYearsAge {
         byte age;
 
         System.out.println("----------------------------------------------------------");
-        System.out.println("Hello!   What is your name?");
+        System.out.print("Hello!   What is your name?  ");
         name = in.nextLine();
-        System.out.println("\nHi, " + name + "!   How old are you?");
+        System.out.print("\nHi, " + name + "!   How old are you?  ");
         age = in.nextByte();
 
         System.out.println("\nDid you know that in five years you will be " + (age + 5) + " years old?");

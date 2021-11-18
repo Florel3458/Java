@@ -3,6 +3,8 @@
         "HelloWorld",
         "Ch1",
         "Ch2/YouDoIt",
-        "Ch2"
+        "Ch2",
+        "Ch3",
+        "Ch3\\YouDoIt"
     ]
 }
