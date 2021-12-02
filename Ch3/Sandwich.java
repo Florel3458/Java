@@ -10,7 +10,7 @@ public class Sandwich {
         mainIngredient = ing;
     }
 
-    public String getbreadType() {
+    public String getBreadType() {
         return breadType;
     }
     public void setBreadType(String brd) {
