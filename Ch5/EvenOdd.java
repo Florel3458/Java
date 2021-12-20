@@ -13,6 +13,6 @@ public class EvenOdd {
         int num = in.nextInt();
         in.close();
 
-        return (num % 2 == 0);
+        return(num % 2 == 0);
     }
 }
