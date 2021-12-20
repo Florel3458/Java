@@ -42,7 +42,7 @@ public class AscendingAndDescending {
             high = num1;
          }
       }
-      System.out.println("Ascending: " + low + " " + med + " " + high);
+      System.out.println("Ascending:  " + low + " " + med + " " + high);
       System.out.println("Descending: " + high + " " + med + " " + low);
    }
 }
